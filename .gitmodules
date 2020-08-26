@@ -1,0 +1,15 @@
+[submodule "themes/northendlab"]
+	path = themes/northendlab
+	url = https://github.com/themefisher/northendlab-hugo
+[submodule "themes/hugo.386"]
+	path = themes/hugo.386
+	url = https://gitlab.com/maxlefou/hugo.386
+[submodule "themes/amperage"]
+	path = themes/amperage
+	url = https://github.com/asurbernardo/amperage
+[submodule "themes/yeet"]
+	path = themes/yeet
+	url = https://github.com/MeiK2333/github-style
+[submodule "themes/github-style"]
+	path = themes/github-style
+	url = https://github.com/MeiK2333/github-style.git
