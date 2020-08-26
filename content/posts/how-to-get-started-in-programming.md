@@ -4,7 +4,6 @@ date: 2020-07-08T19:29:07-04:00
 draft: false
 author: "Katie Li"
 ---
-{{< picture "how-to-get-started-in-programming.pn" "how-to-get-started-in-programming.pn" "Image alt text" >}}
 ![alt text](https://cdn.ortexo.com/how-to-get-started-in-programming.png "Logo Title Text 1")
 Looking at our own team here at Launch Tech LLC, our programming experience and learning methodology differ significantly. Some of us took online classes in our own free time, some of us built foundations through Roblox or similar gaming sites, and some of us took classes in school. However, no matter where you begin or where you end up, no matter if your desire to program is purely professional, purely passionate, or somewhere in the middle, learning to program will give you the same couple of things: an altered, more logical view of the world, confidence in yourself and your abilities, and a new, highly applicable skill that will help you just about anywhere you go.
 
