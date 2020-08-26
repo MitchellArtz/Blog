@@ -1,6 +1,6 @@
 ---
 title: "5 Projects You Should Build as a Beginner!"
-date: 2020-08-26T20:29:07-04:00
+date: 2020-08-26T01:29:07-04:00
 draft: false
 author: "Katie Li"
 ---
