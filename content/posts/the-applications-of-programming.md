@@ -2,10 +2,11 @@
 title: "The Applications of Programming"
 date: 2020-08-08T19:29:07-04:00
 draft: false
+author: "Elizabeth Field"
 ---
 ![Applications](https://cdn.ortexo.com/applications.jpg)
 
-**Author: Elizabeth Field**
+
 
 Time and time again, teachers, grandparents, parents, and others have been famous for dispelling the use of technology. But what most people fail to realize is the prevalence of technology in our lives. Even if you don’t personally know how to code or do so much as navigate a website without assistance, programming is everywhere.
 

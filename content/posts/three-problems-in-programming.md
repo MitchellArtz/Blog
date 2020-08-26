@@ -2,10 +2,10 @@
 title: "Three Problems Beginner Programmers Face"
 date: 2020-07-13T19:29:07-04:00
 draft: false
+author: "Katie Li"
 ---
 ![Applications](https://cdn.ortexo.com/three-problems-in-programming.png)
 
-**Author: Katie Li**
 
 Whether it’s interest and excitement, pressure from others, the promise of a lucrative career, or something else entirely, you’ve decided to learn how to program. You may have eagerly dived into tutorials, textbooks, or even paid courses, only to hit a roadblock. And then another. And then another. And suddenly, you’re wondering, Why did I think this was a good idea? Why is programming so hard?
 

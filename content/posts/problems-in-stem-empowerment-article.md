@@ -2,10 +2,10 @@
 title: "Problems in STEM Empowerment"
 date: 2020-08-14T19:29:07-04:00
 draft: false
+author: "Elizabeth Field"
 ---
 ![Problems](https://cdn.ortexo.com/problems.jpg)
 
-**Author: Elizabeth Field**
 
 STEM empowerment, for the most part, is a wonderful movement. It is an encouraging and unconditionally supportive community pushing individuals to pursue their dreams, despite what the rest of the world seems to think. It has had a substantial impact on many of today’s youth, providing opportunities, establishing contacts, and teaching important skills that may not be obtained elsewhere. STEM empowerment provides a degree of equity within the field. It helps those at a disadvantage, whether that originates from socioeconomic status, gender or racial bias, or any other reason one may be hindered from receiving the same education, motivation, and options as others in their prospective fields. The community gives confidence to those in doubt. It gives power to those in need. But despite the incredible sentiment that STEM empowerment embodies, there are issues present. There are ways the community must improve and address problems that are inherent in such a group.
 

@@ -2,6 +2,7 @@
 title: "Secrets of Successful NPOs: A Recap"
 date: 2020-08-05T19:29:07-04:00
 draft: false
+author: "Katie Li"
 ---
 ![Problems](https://cdn.ortexo.com/secrets-of-successful-npos.png)
 

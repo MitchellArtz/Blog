@@ -1,7 +1,7 @@
 baseURL = "https://www.blog.ortexo.com"
 languageCode = "en-us"
 title = "Ortexo Blog"
-theme = "yeet"
+theme = "hugo-swift-theme"
 
 [params]
 github = "ortexo"

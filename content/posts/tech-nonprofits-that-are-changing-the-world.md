@@ -2,10 +2,10 @@
 title: "Professional and Independent Software Engineers: What’s the Difference?"
 date: 2020-08-21T19:29:07-04:00
 draft: false
+author: "Katie Li"
 ---
 ![Applications](https://cdn.ortexo.com/lightbulb.jpeg)
 
-**Author: Katie Li**
 
 
 Throughout the past decade, innovators have been finding more and more new ways to address tech-related needs across the world, causing the quantity of tech nonprofits to skyrocket. According to the founder of Fast Forward, a nonprofit accelerator in the Bay Area, the number of new tech nonprofits is increasing by over 30% every year.

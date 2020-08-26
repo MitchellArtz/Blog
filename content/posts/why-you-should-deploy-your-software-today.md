@@ -2,6 +2,7 @@
 title: "Why You Should Deploy Your Software Today"
 date: 2020-08-12T19:29:07-04:00
 draft: false
+author: "Katie Li"
 ---
 ![Applications](https://cdn.ortexo.com/deploy.png)
 

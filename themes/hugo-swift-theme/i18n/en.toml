@@ -1,5 +1,5 @@
 [designed_by]
-  other = "Designed by  <a href = '{{ .url }}' title = 'Linkedin Profile'>{{ .name }}</a>"
+  other = " "
 [share_story]
   other = "Share Story"
 [link_copied]
@@ -17,7 +17,7 @@
 [noComment]
   other = "No comment"
 [email]
-  other = "Email"
+  other = "Hello@ortexo.com"
 [name]
   other = "Name"
 [typeInComment]

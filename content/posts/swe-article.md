@@ -2,10 +2,10 @@
 title: "Professional and Independent Software Engineers: What’s the Difference?"
 date: 2020-08-21T19:29:07-04:00
 draft: false
+author: "Elizabeth Field"
 ---
 ![Applications](https://cdn.ortexo.com/swe-article.jpg)
 
-**Author: Elizabeth Field**
 
 Before you can understand the differences between types, it is important to know what a software engineer is. A software engineer is someone who builds applications or software. A professional software engineer is someone who does this for a company or other organization. An independent software engineer is someone who does this of their own accord, bossed by themselves. A professional software engineer, in most cases, is paid for their work. An independent software engineer, in most cases, is not. However, despite this dictionary definition of the two positions, there is so much more to both a professional and an independent software engineer than their corporate status or source of income.
 
