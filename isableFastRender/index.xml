@@ -6,18 +6,28 @@
     <description>Recent content on Ortexo Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Aug 2020 19:29:07 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2020 19:29:07 -0400</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Tue, 25 Aug 2020 18:46:47 +0800</pubDate>
+      <title>Professional and Independent Software Engineers: What’s the Difference?</title>
+      <link>http://localhost:1313/posts/swe-article/</link>
+      <pubDate>Fri, 21 Aug 2020 19:29:07 -0400</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
-      <description>hi there</description>
+      <guid>http://localhost:1313/posts/swe-article/</guid>
+      <description>Before you can understand the differences between types, it is important to know what a software engineer is. A software engineer is someone who builds applications or software. A professional software engineer is someone who does this for a company or other organization. An independent software engineer is someone who does this of their own accord, bossed by themselves. A professional software engineer, in most cases, is paid for their work.</description>
+    </item>
+    
+    <item>
+      <title>Professional and Independent Software Engineers: What’s the Difference?</title>
+      <link>http://localhost:1313/posts/tech-nonprofits-that-are-changing-the-world/</link>
+      <pubDate>Fri, 21 Aug 2020 19:29:07 -0400</pubDate>
+      
+      <guid>http://localhost:1313/posts/tech-nonprofits-that-are-changing-the-world/</guid>
+      <description>Throughout the past decade, innovators have been finding more and more new ways to address tech-related needs across the world, causing the quantity of tech nonprofits to skyrocket. According to the founder of Fast Forward, a nonprofit accelerator in the Bay Area, the number of new tech nonprofits is increasing by over 30% every year.
+Similar to tech startups, nonprofits are able to take advantage of the constantly evolving world of technology.</description>
     </item>
     
     <item>
@@ -26,8 +36,30 @@
       <pubDate>Fri, 14 Aug 2020 19:29:07 -0400</pubDate>
       
       <guid>http://localhost:1313/posts/problems-in-stem-empowerment-article/</guid>
-      <description>Author: Elizabeth Field
-STEM empowerment, for the most part, is a wonderful movement. It is an encouraging and unconditionally supportive community pushing individuals to pursue their dreams, despite what the rest of the world seems to think. It has had a substantial impact on many of today’s youth, providing opportunities, establishing contacts, and teaching important skills that may not be obtained elsewhere. STEM empowerment provides a degree of equity within the field.</description>
+      <description>STEM empowerment, for the most part, is a wonderful movement. It is an encouraging and unconditionally supportive community pushing individuals to pursue their dreams, despite what the rest of the world seems to think. It has had a substantial impact on many of today’s youth, providing opportunities, establishing contacts, and teaching important skills that may not be obtained elsewhere. STEM empowerment provides a degree of equity within the field. It helps those at a disadvantage, whether that originates from socioeconomic status, gender or racial bias, or any other reason one may be hindered from receiving the same education, motivation, and options as others in their prospective fields.</description>
+    </item>
+    
+    <item>
+      <title>Why You Should Deploy Your Software Today</title>
+      <link>http://localhost:1313/posts/why-you-should-deploy-your-software-today-copy/</link>
+      <pubDate>Wed, 12 Aug 2020 19:29:07 -0400</pubDate>
+      
+      <guid>http://localhost:1313/posts/why-you-should-deploy-your-software-today-copy/</guid>
+      <description>Author: Katie Li
+You’ve spent countless hours poring over textbooks and videos, debugging your code, browsing through Stack Overflow, and nearly ripping your hair out in frustration just to get your program to function properly. So why is it just sitting on your hard drive, unused?
+Once beginners reach a certain level of technical proficiency, they generally build small projects to practice and apply their skills. What they don’t do, however, is deploy their software and make it available in a live environment.</description>
+    </item>
+    
+    <item>
+      <title>The Applications of Programming</title>
+      <link>http://localhost:1313/posts/the-applications-of-programming/</link>
+      <pubDate>Sat, 08 Aug 2020 19:29:07 -0400</pubDate>
+      
+      <guid>http://localhost:1313/posts/the-applications-of-programming/</guid>
+      <description>Time and time again, teachers, grandparents, parents, and others have been famous for dispelling the use of technology. But what most people fail to realize is the prevalence of technology in our lives. Even if you don’t personally know how to code or do so much as navigate a website without assistance, programming is everywhere.
+And to prove it&amp;hellip;
+IT/Computer Science
+This one is pretty obvious. This field does not incorporate programming; it is programming.</description>
     </item>
     
     <item>
@@ -39,6 +71,16 @@ STEM empowerment, for the most part, is a wonderful movement. It is an encouragi
       <description>Author: Katie Li
 On July 19th, five successful founders of the NPO Core community highlighted their experiences growing a nonprofit from the ground up—Chinmayi Balusu of Simply Neuroscience, Shrey Gupta of Irvine Lights, Gabby Banaag of Helloo World, Arun Mommileti of United2Care, and Shivali Gulati of Girl Genius. In NPO Core’s online webinar, these founders shared their tips and insights on how to transform any idea into reality.
 Coming up with a mission</description>
+    </item>
+    
+    <item>
+      <title>Three Problems Beginner Programmers Face</title>
+      <link>http://localhost:1313/posts/three-problems-in-programming/</link>
+      <pubDate>Mon, 13 Jul 2020 19:29:07 -0400</pubDate>
+      
+      <guid>http://localhost:1313/posts/three-problems-in-programming/</guid>
+      <description>Whether it’s interest and excitement, pressure from others, the promise of a lucrative career, or something else entirely, you’ve decided to learn how to program. You may have eagerly dived into tutorials, textbooks, or even paid courses, only to hit a roadblock. And then another. And then another. And suddenly, you’re wondering, Why did I think this was a good idea? Why is programming so hard?
+The truth is, we’ve all been there.</description>
     </item>
     
     <item>

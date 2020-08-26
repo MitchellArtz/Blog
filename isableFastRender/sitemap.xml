@@ -3,18 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2020-08-25T18:46:47+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2020-08-14T19:29:07-04:00</lastmod>
+    <lastmod>2020-08-21T19:29:07-04:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2020-08-14T19:29:07-04:00</lastmod>
+    <lastmod>2020-08-21T19:29:07-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/posts/swe-article/</loc>
+    <lastmod>2020-08-21T19:29:07-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/posts/tech-nonprofits-that-are-changing-the-world/</loc>
+    <lastmod>2020-08-21T19:29:07-04:00</lastmod>
   </url>
   
   <url>
@@ -23,8 +28,23 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/posts/why-you-should-deploy-your-software-today-copy/</loc>
+    <lastmod>2020-08-12T19:29:07-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/posts/the-applications-of-programming/</loc>
+    <lastmod>2020-08-08T19:29:07-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/posts/secrets-of-successful-npos-a-recap/</loc>
     <lastmod>2020-08-05T19:29:07-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/posts/three-problems-in-programming/</loc>
+    <lastmod>2020-07-13T19:29:07-04:00</lastmod>
   </url>
   
   <url>
