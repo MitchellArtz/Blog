@@ -1,20 +1,11 @@
-import { withRouter } from "next/router";
-import BlogPost from "../../components/layouts/blog-post";
+---
+title: "Three Problems Beginner Programmers Face"
+date: 2020-07-13T19:29:07-04:00
+draft: false
+---
+![Applications](https://cdn.ortexo.com/three-problems-in-programming.png)
 
-export const meta = {
-  published: true,
-  publishedAt: "2020-07-13",
-  author: "Katie Li",
-  title: "Three Problems Beginner Programmers Face",
-  summary: "What are 3 problems beginners face when they start in programming?",
-  image: "/static/features/three-problems-in-programming.png"
-};
-
-export default withRouter(({ children, router }) => (
-  <BlogPost path={router.pathname} meta={meta}>
-    {children}
-  </BlogPost>
-));
+**Author: Katie Li**
 
 Whether it’s interest and excitement, pressure from others, the promise of a lucrative career, or something else entirely, you’ve decided to learn how to program. You may have eagerly dived into tutorials, textbooks, or even paid courses, only to hit a roadblock. And then another. And then another. And suddenly, you’re wondering, Why did I think this was a good idea? Why is programming so hard?
 

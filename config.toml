@@ -4,9 +4,8 @@ title = "Ortexo Blog"
 theme = "yeet"
 
 [params]
-github = "https://github.com/ortexo"
+github = "ortexo"
 email = "Hello@ortexo.com"
 url = "https://ortexo.com"
 keywords = "Blog, saas, npocore, ortexo"
-
 

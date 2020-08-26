@@ -1,20 +1,11 @@
-import { withRouter } from "next/router";
-import BlogPost from "../../components/layouts/blog-post";
+---
+title: "Why You Should Deploy Your Software Today"
+date: 2020-08-12T19:29:07-04:00
+draft: false
+---
+![Applications](https://cdn.ortexo.com/deploy.png)
 
-export const meta = {
-  published: true,
-  publishedAt: "2020-08-12",
-  author: "Katie Li",
-  title: "Why You Should Deploy Your Software Today",
-  summary: "Many beginners spend countless hours building projects, but no one else ever sees them.",
-  image: "/static/features/deploy.png"
-};
-
-export default withRouter(({ children, router }) => (
-  <BlogPost path={router.pathname} meta={meta}>
-    {children}
-  </BlogPost>
-));
+**Author: Katie Li**
 
 You’ve spent countless hours poring over textbooks and videos, debugging your code, browsing through Stack Overflow, and nearly ripping your hair out in frustration just to get your program to function properly. So why is it just sitting on your hard drive, unused?
 
