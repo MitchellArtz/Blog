@@ -1,5 +1,5 @@
 ---
-title: "Professional and Independent Software Engineers: What’s the Difference?"
+title: "7 Tech Nonprofits that are Changing the World"
 date: 2020-08-21T19:29:07-04:00
 draft: false
 author: "Katie Li"
