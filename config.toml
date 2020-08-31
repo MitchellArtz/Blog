@@ -1,6 +1,6 @@
-baseURL = "https://www.blog.ortexo.com"
+baseURL = "https://www.blog.npocore.com"
 languageCode = "en-us"
-title = "Ortexo Blog"
+title = "NPO Core Blog"
 theme = "hugo-swift-theme"
 
 [params]
